@@ -1,6 +1,6 @@
 # argocd-katas
 
-Exercise list in order:
+Exercise list in order: Test change pls ignore
 
 * [Setup of your ArgoCD root application](setup.md)
 * [Introduction to ArgoCD](intro.md)
