@@ -1,5 +1,6 @@
 service:
-  type: NodePort
+  type: ClusterIP
 persistence:
   enabled: false
 jenkinsPassword: student
+
