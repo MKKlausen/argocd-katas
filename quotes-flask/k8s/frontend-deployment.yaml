@@ -46,5 +46,10 @@ spec:
                 configMapKeyRef:
                   name: backend-config
                   key: backend_port
+            - name: FRONTEND_BLABLA
+              valueFrom:
+                configMapKeyRet:
+                  name: ost
+                  key: havarti
 
 status: {}
